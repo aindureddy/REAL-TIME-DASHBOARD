@@ -17,3 +17,5 @@ A collection of visualizations exploring various aspects of a dataset, likely re
 DELIVERABLE: A LIVE POWER BI DASHBOARD THAT UPDATES IN REAL-TIME.
 
 OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/e46c41e3-9b10-4e35-952e-f7a075403b73)
